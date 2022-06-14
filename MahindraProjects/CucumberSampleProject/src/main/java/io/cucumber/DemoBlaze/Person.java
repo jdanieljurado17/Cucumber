@@ -1,4 +1,4 @@
-package io.cucumber.examples;
+package io.cucumber.DemoBlaze;
 
 import java.util.ArrayList;
 import java.util.List;

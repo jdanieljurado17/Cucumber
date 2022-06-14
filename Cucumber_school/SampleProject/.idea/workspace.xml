@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8724d534-edc6-42c1-ac9a-fa99ef730d28" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/main/java/io/cucumber/shouty/Belly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/main/java/io/cucumber/examples/Belly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/main/java/io/cucumber/shouty/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/main/java/io/cucumber/examples/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/test/java/io/cucumber/shouty/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/test/java/io/cucumber/examples/RunCucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/test/java/io/cucumber/shouty/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/test/java/io/cucumber/examples/StepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/test/resources/io/cucumber/shouty/example.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahul_shetty/ExamplesProject/src/test/resources/io/cucumber/examples/example.feature" afterDir="false" />
-    </list>
+    <list default="true" id="8724d534-edc6-42c1-ac9a-fa99ef730d28" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +19,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SampleProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SampleProject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
