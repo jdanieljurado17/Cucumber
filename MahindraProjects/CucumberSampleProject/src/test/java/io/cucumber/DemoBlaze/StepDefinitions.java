@@ -23,7 +23,7 @@ public class StepDefinitions /*extends WebDriverSetup*/ {
     public WebDriver driver;
     //WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
 
-    String username = "thisTest55";
+    String username = "thisTest63";
     String password = "thisTest1";
     String email = "thisemail@example.com";
     String name = "Joe Smith";
